@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Tahoma, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+.card {
+  padding: 20px;
+  margin: 20px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+a {
+  color: #0057d8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+img {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
